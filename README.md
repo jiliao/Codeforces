@@ -1,2 +1,2 @@
-# TopCoder
-Solutions to some TopCoder problems. Most done quickly for fun :).
+# Codeforces
+Solutions to some Codeforces problems. Most done quickly for fun :).
